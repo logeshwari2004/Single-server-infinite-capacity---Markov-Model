@@ -63,7 +63,8 @@ print("---------------------------------------------------------------")
 ![image](https://user-images.githubusercontent.com/94508142/203699078-2a20a84a-4ca6-4419-be6e-e5b535fd7e90.png)
 
 ## Result
-Average number of objects in the system : 0.08\n
+Average number of objects in the system : 0.08
+
 Average number of objects in the conveyor : 0.12
 Average waiting time of an object in the system : 2.00
 Average waiting time of an object in the conveyor : 1.33
