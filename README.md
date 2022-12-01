@@ -28,8 +28,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program
 ```
-NAME: VISHAL GOWTHAMAN K R
-REG NO: 212221230123
+NAME: Logeshwari P
+REG NO: 212221230055
 ```
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -63,12 +63,13 @@ print("---------------------------------------------------------------")
 ![image](https://user-images.githubusercontent.com/94508142/203699078-2a20a84a-4ca6-4419-be6e-e5b535fd7e90.png)
 
 ## Result
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 Average number of objects in the system : 0.08
 Average number of objects in the conveyor : 0.12
 Average waiting time of an object in the system : 2.00
 Average waiting time of an object in the conveyor : 1.33
 Probability that the system is busy :0.67
 Probability that the system is empty : 0.33.
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+
 
 
